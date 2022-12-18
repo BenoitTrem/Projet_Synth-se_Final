@@ -21,6 +21,7 @@ namespace Projet_Synthèse_Final
             Application.SetCompatibleTextRenderingDefault(false);
             // FromParent va ouvrir en premié
             Application.Run(new FormParent());
+
         }
     }
 }
